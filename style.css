@@ -18,6 +18,7 @@ body:after {
       text-decoration: underline;
       text-transform: capitalize;
       line-height: 3px
+	padding-bottom: 50px;
        }
 p {
   font-size: 17px;
